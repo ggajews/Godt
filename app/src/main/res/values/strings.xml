@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Godt</string>
+    <string name="search_title">Search</string>
+    <string name="loading_data_error">Network error. Please check your connection</string>
+</resources>
